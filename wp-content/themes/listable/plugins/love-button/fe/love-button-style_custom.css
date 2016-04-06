@@ -1,0 +1,16 @@
+/* STYLE CUSTOM */
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper { margin-top: 17px; margin-bottom: 0; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsTools { }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsTools .delucksShareButtonsTrigger { }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { padding: 0; border: none; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsTools .delucksShareButtonsTrigger .icon img { cursor: pointer }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowBottom { margin-top: 0; margin-bottom: 20px; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; right: 8px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; right: 7px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowLeft:after, .delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowLeft:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; left: 15px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; left: 15px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowBottom:after, .delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowBottom:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(214, 214, 214, 0); border-top-color: #FFFFFF; border-width: 13px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_custom .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(214, 214, 214, 0); border-top-color: #D6D6D6; border-width: 14px; margin-left: -14px; }

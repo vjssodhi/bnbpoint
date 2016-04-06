@@ -1,0 +1,93 @@
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsTools .delucksShareButtonsCounter { color: #666666 !important; }
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { border: solid 1px #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsTools .delucksShareButtonsTrigger .icon .verb { color: #949494; }
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { border: solid 1px #242424; background: #464646 !important; color: #949494 !important; }
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsInnerWrapper { background: #464646; border: #242424 solid 1px; -moz-box-shadow: 0px 0px 0px rgba(0,0,0,0.25); -webkit-box-shadow: 0px 0px 0px rgba(0,0,0,0.25); box-shadow: 0px 0px 0px rgba(0,0,0,0.25); }
+
+/* STYLE 1 (59x16) */
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background-color:#464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(70, 70, 70, 0); border-right-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(36, 36, 36, 0); border-right-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsInnerWrapper:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsInnerWrapper:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(70, 70, 70, 0); border-top-color: #242424; }
+
+/* STYLE 2 (75x20) */
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background-color:#464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(70, 70, 70, 0); border-right-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(36, 36, 36, 0); border-right-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsInnerWrapper:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsInnerWrapper:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(70, 70, 70, 0); border-top-color: #242424; }
+
+/* STYLE 3 (91x24) */
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background-color:#464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(70, 70, 70, 0); border-right-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(36, 36, 36, 0); border-right-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsInnerWrapper:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsInnerWrapper:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(70, 70, 70, 0); border-top-color: #242424; }
+
+/* STYLE 4 (52x60) */
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background-color:#464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(36, 36, 36, 0); border-top-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background: url("../images/love-slices.png") no-repeat scroll 17px -29px #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(70, 70, 70, 0); border-bottom-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(70, 70, 70, 0); border-bottom-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(70, 70, 70, 0); border-top-color: #242424; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper .counter { height: 28px; position: relative; margin: 0 auto 9px auto; font-size: 16px; line-height: 30px !important; font-weight: bold !important; background: #464646; border: 1px solid #242424; border-radius: 3px 3px 3px 3px; margin: 0 auto; padding: 0; text-align: center; width: 50px; display: block; color: #949494; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper .counter:after, .delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper .counter:before { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper .counter:after { border-color: rgba(70, 70, 70, 0); border-top-color: #464646; }
+.delucksShareButtonsOuterWrapper.theme_dark.style_52x60 .delucksShareButtonsInnerWrapper .counter:before { border-color: rgba(70, 70, 70, 0); border-top-color: #242424; }
+
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsInnerWrapper .delucksShareButtonsLinks a { color: #CCCCCC !important; }
+.delucksShareButtonsOuterWrapper.theme_dark .delucksShareButtonsInnerWrapper .subscription { color: #CCCCCC !important; }
+
+/* OVERLAYS */
+.delucksOverlay.dark {  }
+
+/* PINTEREST OVERLAY */
+.delucksOverlay.dark.pinterst { display: none; position: fixed; z-index: 2000; height: 100%; width: 100%; background: url("../images/overlay.png") repeat; color: #FFFFFF; overflow: auto; }
+.delucksOverlay.dark.pinterst img { margin: 10px; border: solid 5px #FFFFFF; padding: 3px; max-width: 150px;  }
+.delucksOverlay.dark.pinterst img:hover { border: solid 5px #CB2027; }
+
+/* FACEBOOK OVERLAY */
+.delucksOverlay.facebook.dark { width: 100%; height: 100%; position: fixed; background:none repeat scroll 0 0 rgba(255, 255, 255, 0.30); z-index: 9999; font-family: Arial, Helvetica, sans-serif; }
+.delucksOverlay.dark .facebookLikeBox { position: fixed; z-index: 2000; min-height: 75px; width: 300px; margin-top:-50px; margin-left: -175px; top: 50%; left: 50%; background:#464646; color: #000; padding: 15px 15px 10px 15px; border: 1px solid #242424; -webkit-border-radius: 10px;border-radius: 10px; -webkit-box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5);box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5); }
+.delucksOverlay.dark .facebookLikeBox .close { cursor: pointer; position: absolute; right: 0px; top: 8px;color: grey;  }
+.delucksOverlay.dark .facebookLikeBox .close:hover {color: #000; }
+.delucksOverlay.dark .facebookLikeBox .close .countdown { padding: 0 5px; font-size: 10px; }
+.delucksOverlay.dark .facebookLikeBox .overlayContent {  }
+.delucksOverlay.dark .facebookLikeBox .overlayFooter {border-top: 1px dashed grey;color: grey;font-size: 10px;margin-top: 11px;padding: 7px 0 0 10px;text-align: right;width: 100%;}
+.delucksOverlay.dark .facebookLikeBox .overlayFooter input {float: right; margin:0 4px 0 10px; }
+
+/* TWITTER OVERLAY */
+.delucksOverlay.twitter.dark { width: 100%; height: 100%; position: fixed; background:none repeat scroll 0 0 rgba(255, 255, 255, 0.30); z-index: 9999; font-family: Arial, Helvetica, sans-serif; }
+.delucksOverlay.dark .twitterFollowBox { position: fixed; z-index: 2000; min-height: 75px; width: 300px; margin-top:-50px; margin-left: -175px; top: 50%; left: 50%; background:#464646; color: #000; padding: 15px 15px 10px 15px; border: 1px solid #242424; -webkit-border-radius: 10px;border-radius: 10px; -webkit-box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5);box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5); }
+.delucksOverlay.dark .twitterFollowBox .close { cursor: pointer; position: absolute; right: 0px; top: 8px;color: grey;  }
+.delucksOverlay.dark .twitterFollowBox .close:hover {color: #000; }
+.delucksOverlay.dark .twitterFollowBox .close .countdown { padding: 0 5px; font-size: 10px; }
+.delucksOverlay.dark .twitterFollowBox .overlayContent {  }
+.delucksOverlay.dark .twitterFollowBox .overlayFooter {border-top: 1px dashed grey;color: grey;font-size: 10px;margin-top: 11px;padding: 7px 0 0 10px;text-align: right;width: 100%;}
+
+/* GOOGLE OVERLAY */
+.delucksOverlay.google.dark { width: 100%; height: 100%; position: fixed; background:none repeat scroll 0 0 rgba(255, 255, 255, 0.30); z-index: 9999; font-family: Arial, Helvetica, sans-serif; }
+.delucksOverlay.dark .googleFollowBox { position: fixed; z-index: 2000; min-height: 75px; width: 300px; margin-top:-50px; margin-left: -175px; top: 50%; left: 50%; background:#464646; color: #000; padding: 15px 15px 10px 15px; border: 1px solid #242424; -webkit-border-radius: 10px;border-radius: 10px; -webkit-box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5);box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5); }
+.delucksOverlay.dark .googleFollowBox .close { cursor: pointer; position: absolute; right: 0px; top: 8px;color: grey;  }
+.delucksOverlay.dark .googleFollowBox .close:hover {color: #000; }
+.delucksOverlay.dark .googleFollowBox .close .countdown { padding: 0 5px; font-size: 10px; }
+.delucksOverlay.dark .googleFollowBox .overlayContent {  }
+.delucksOverlay.dark .googleFollowBox .overlayFooter {border-top: 1px dashed grey;color: grey;font-size: 10px;margin-top: 11px;padding: 7px 0 0 10px;text-align: right;width: 100%;}

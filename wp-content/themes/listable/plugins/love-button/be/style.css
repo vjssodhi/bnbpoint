@@ -1,0 +1,128 @@
+@import url("../fe/style.css");
+
+#delucks_loveButtonSettings input[disabled="disabled"] { background-color: #F0F0F0; }
+#delucks_loveButtonSettings .option.disabled > span { color: #808080; }
+
+
+#delucks_loveButtonSettings .delucksShareButtonsClear { clear: none; display: none; }
+#delucks_loveButtonSettings {opacity:0; filter:alpha(opacity=0); }
+#delucks_loveButtonSettings hr { border-bottom: solid 2px #dddddd; color: #dddddd; background: #DDDDDD; margin-bottom: 15px; }
+#delucks_loveButtonSettings .icon32 { background: url("../images/love-logo.png") no-repeat; }
+#delucks_loveButtonSettings .title { margin-bottom: 10px; }
+#delucks_loveButtonSettings .containerClear { clear: left; }
+#delucks_loveButtonSettings .container { float: left; width: 25%; }
+#delucks_loveButtonSettings .container.heading, #delucks_loveButtonSettings .container.info .heading { font-size: 16px; color: #333333; font-weight: bold; border-bottom: solid 2px #dddddd; margin-bottom: 20px; padding-bottom: 10px; }
+#delucks_loveButtonSettings .container.content { font-size: 12px; }
+#delucks_loveButtonSettings .container.content .label { display: inline-block; margin-bottom: 15px; }
+#delucks_loveButtonSettings .container.content .label.hint { font-size: 10px; }
+#delucks_loveButtonSettings .container.content .title { display: inline-block; margin-bottom: 7px; font-size: 14px; font-weight: bold; }
+#delucks_loveButtonSettings .container.content input[type="checkbox"], input[type="radio"] {margin-right: 5px; }
+#delucks_loveButtonSettings .container.content.functions { }
+#delucks_loveButtonSettings .container.content.functions .network { padding: 4px; margin-bottom: 5px; width: 90%; border: solid 1px #CCCCCC; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+#delucks_loveButtonSettings .container.content.functions .network:hover { background: #EDE8E8; cursor: move; }
+#delucks_loveButtonSettings .container.content.functions .network .label {text-transform: capitalize; margin-bottom: 0; }
+#delucks_loveButtonSettings .container.content.functions .network input[type="checkbox"] { margin: 0 2px 0 2px; }
+#delucks_loveButtonSettings .container.content.functions .network .settingsToggle { float: right; background: url("../images/backend-icons.png") no-repeat scroll -45px -10px transparent; height: 20px; width: 24px; }
+#delucks_loveButtonSettings .container.content.functions .network .networkSettings { border-top: 1px dotted #C0C0C0; margin-top: 4px; padding: 8px 4px; display: none; }
+#delucks_loveButtonSettings .container.content.functions .network .networkSettings .row {  }
+#delucks_loveButtonSettings .container.content.functions .network .networkSettings .row .settingName { display: inline-block; width: 190px; }
+#delucks_loveButtonSettings .container.content.functions .network .networkSettings .row .settingInput {  }
+
+#delucks_loveButtonSettings .container.content.placement textarea.shortcode { margin: 0 0 15px 15px; width: 280px; height: 25px; }
+
+#delucks_loveButtonSettings .container.content.placement .positionContainer { min-width: 350px; clear: both; }
+
+
+#delucks_loveButtonSettings .container.content.placement select.align { margin: 0 15px 15px 15px; cursor: pointer; }
+#delucks_loveButtonSettings .container.content.placement select.filter { margin: 0 0 15px 0; cursor: pointer; }
+#delucks_loveButtonSettings .container.content.placement select.position { cursor: pointer; }
+#delucks_loveButtonSettings .container.content.placement select option { padding: 3px; }
+#delucks_loveButtonSettings .container.content.placement .margin input, #delucks_loveButtonSettings .container.content.placement .position input { width: 40px; margin: 0 10px 10px 0; text-align: center; }
+#delucks_loveButtonSettings .container.content.placement .margin span, #delucks_loveButtonSettings .container.content.placement .position span { display: inline-block; width: 40px; margin: 0 10px 10px 0; text-align: center; }
+#delucks_loveButtonSettings .container.content.style .theme .label { margin: 0 10px 20px 0; float: left; }
+#delucks_loveButtonSettings .container.content.style .theme input { margin: 0 0 15px 0; }
+#delucks_loveButtonSettings .container.content.style .customImageUrl { color: #C0C0C0; }
+#delucks_loveButtonSettings .container.content.popup .label { margin: 0 0 15px 0; }
+#delucks_loveButtonSettings .container.info p {line-height: 1.7;  }
+#delucks_loveButtonSettings .container.info a {text-decoration: none; font-weight: bold; color: #21759B; }
+#delucks_loveButtonSettings .container.info a:hover {color: #298CBA; }
+#delucks_loveButtonSettings .container.info.about { width: 50%; }
+#delucks_loveButtonSettings .container.info.about p {padding-right: 60px;}
+#delucks_loveButtonSettings .container.info.about .icon-about { float: left; width: 95px; height: 86px; background: url("../images/about-love.png") no-repeat;}
+#delucks_loveButtonSettings .container.info.licence { width: 25%; }
+#delucks_loveButtonSettings .container.info.licence .icon-licence { float: left; width: 95px; height: 86px; background: url("../images/about-licence.png") no-repeat; }
+
+#delucks_loveButtonSettings .tabs { }
+#delucks_loveButtonSettings .tabs .tabMenu { text-align: right; width: 75%; }
+#delucks_loveButtonSettings .tabs .tabMenu .entry { display: inline-block; width: 35px; height: 35px; cursor: pointer; opacity: 0.5; }
+#delucks_loveButtonSettings .tabs .tabMenu .entry.statistics { background: url("../images/backend-icons.png") no-repeat scroll 0 0 transparent;}
+#delucks_loveButtonSettings .tabs .tabMenu .entry.settings { background: url("../images/backend-icons.png") no-repeat scroll -40px 0 transparent;}
+#delucks_loveButtonSettings .tabs .tabMenu .entry.about { background: url("../images/backend-icons.png") no-repeat scroll -79px 0 transparent;}
+#delucks_loveButtonSettings .tabs .tabMenu .entry.active, #delucks_loveButtonSettings .tabs .tabMenu .entry:hover { opacity: 1; }
+#delucks_loveButtonSettings .tabs .tabContent { }
+#delucks_loveButtonSettings .tabs .tabContent .entry { display: none; padding-left: 10px; }
+
+#delucks_loveButtonSettings .chart_heading { color: grey; }
+#delucks_loveButtonSettings .statisticsSettings { margin-bottom: 35px; }
+#delucks_loveButtonSettings .statisticsSettings .submit.top { display: inline-block; margin-left: 10px; padding: 0; }
+
+#delucks_loveButtonSettings .stats_heading { color: grey; margin-bottom: 15px; }
+#delucks_loveButtonSettings table.statistics { width: 75%; margin: 0; border-spacing: 0 1px; }
+#delucks_loveButtonSettings table.statistics thead { color: #fff; }
+#delucks_loveButtonSettings table.statistics thead th { text-align: left; font-weight: normal; /*padding: 0px 10px 3px 10px;*/ }
+#delucks_loveButtonSettings table.statistics thead th .icon { display: inline-block; padding-left: 20px; }
+#delucks_loveButtonSettings table.statistics thead th.url { width: 77%; }
+
+#delucks_loveButtonSettings table.statistics thead th.facebook, table.loveButtonStatistics thead th.facebook { background-color: #3B5998; }
+#delucks_loveButtonSettings table.statistics thead th.facebook .icon { background: url("../images/love-slices.png") no-repeat scroll left -101px; }
+#delucks_loveButtonSettings table.statistics thead th.vkontakte, table.loveButtonStatistics thead th.vkontakte { background-color: #4E7199; } /* TODO */
+#delucks_loveButtonSettings table.statistics thead th.vkontakte .icon { background: url("../images/love-slices.png") no-repeat scroll left -550px; } /* TODO */
+#delucks_loveButtonSettings table.statistics thead th.tumblr, table.loveButtonStatistics thead th.tumblr { background-color: #34506B; }
+#delucks_loveButtonSettings table.statistics thead th.tumblr .icon { background: url("../images/love-slices.png") no-repeat scroll left -582px; }
+#delucks_loveButtonSettings table.statistics thead th.flattr, table.loveButtonStatistics thead th.flattr { background-color: #F8B234; }
+#delucks_loveButtonSettings table.statistics thead th.flattr .icon { background: url("../images/love-slices.png") no-repeat scroll left -518px; }
+#delucks_loveButtonSettings table.statistics thead th.google, table.loveButtonStatistics thead th.google { background-color: #C63B1E; color: #FFFFFF; }
+#delucks_loveButtonSettings table.statistics thead th.google .icon { background: url("../images/love-slices.png") no-repeat scroll left -169px; }
+#delucks_loveButtonSettings table.statistics thead th.linkedin, table.loveButtonStatistics thead th.linkedin { background-color: #3399CC; }
+#delucks_loveButtonSettings table.statistics thead th.linkedin .icon { background: url("../images/love-slices.png") no-repeat scroll left -272px; }
+#delucks_loveButtonSettings table.statistics thead th.stumbleupon, table.loveButtonStatistics thead th.stumbleupon { background-color: #EA4A24; }
+#delucks_loveButtonSettings table.statistics thead th.stumbleupon .icon { background: url("../images/love-slices.png") no-repeat scroll left -203px; }
+#delucks_loveButtonSettings table.statistics thead th.twitter, table.loveButtonStatistics thead th.twitter { background-color: #00ACEE; }
+#delucks_loveButtonSettings table.statistics thead th.twitter .icon { background: url("../images/love-slices.png") no-repeat scroll left -136px; }
+#delucks_loveButtonSettings table.statistics thead th.xing, table.loveButtonStatistics thead th.xing { background-color: #026466; }
+#delucks_loveButtonSettings table.statistics thead th.xing .icon { background: url("../images/love-slices.png") no-repeat scroll left -236px; }
+#delucks_loveButtonSettings table.statistics thead th.mail, table.loveButtonStatistics thead th.mail { background-color: #1375C4; }
+#delucks_loveButtonSettings table.statistics thead th.mail .icon { background: url("../images/love-slices.png") no-repeat scroll left -307px; }
+#delucks_loveButtonSettings table.statistics thead th.print, table.loveButtonStatistics thead th.print { background-color: #333333; color: #FFFFFF; }
+#delucks_loveButtonSettings table.statistics thead th.print .icon { background: url("../images/love-slices.png") no-repeat scroll left -344px; }
+#delucks_loveButtonSettings table.statistics thead th.pinterest, table.loveButtonStatistics thead th.pinterest { background-color: #CF3136; color: #FFFFFF; }
+#delucks_loveButtonSettings table.statistics thead th.pinterest .icon { background: url("../images/love-slices.png") no-repeat scroll left -417px; }
+#delucks_loveButtonSettings table.statistics thead th.buffer, table.loveButtonStatistics thead th.buffer { background-color: #51962E; color: #FFFFFF; }
+#delucks_loveButtonSettings table.statistics thead th.buffer .icon { background: url("../images/love-slices.png") no-repeat scroll left -454px; }
+#delucks_loveButtonSettings table.statistics thead th.favorite, table.loveButtonStatistics thead th.favorite { background-color: #FF951B; color: #FFFFFF; }
+#delucks_loveButtonSettings table.statistics thead th.favorite .icon { background: url("../images/love-slices.png") no-repeat scroll left -381px; }
+#delucks_loveButtonSettings table.statistics thead th.internal, table.loveButtonStatistics thead th.internal { background-color: #EEF0EF; color: #000; }
+#delucks_loveButtonSettings table.statistics thead th.internal .icon { background: url("../images/love-slices.png") no-repeat scroll left 3px; }
+#delucks_loveButtonSettings table.statistics thead th.total, table.loveButtonStatistics thead th.total { background-color: #EEF0EF; color: #000; }
+#delucks_loveButtonSettings table.statistics thead th.total .icon { background: url("../images/love-slices.png") no-repeat scroll left -487px; }
+#delucks_loveButtonSettings table.statistics thead th.sorting_desc, #delucks_loveButtonSettings table.statistics thead th.sorting_asc { font-weight: bold; }
+
+#delucks_loveButtonSettings table.statistics tbody {  }
+#delucks_loveButtonSettings table.statistics tbody tr {  }
+#delucks_loveButtonSettings table.statistics tbody tr.even { background-color: #FBFBFB; }
+#delucks_loveButtonSettings table.statistics tbody tr.odd { background-color: #F2F2F2; }
+#delucks_loveButtonSettings table.statistics tbody tr:hover td, #delucks_loveButtonSettings table.statistics tbody tr:hover td a, #delucks_loveButtonSettings table.statistics tbody tr:hover td a:hover, #delucks_loveButtonSettings table.statistics tbody tr:hover td.sorting_1 { background: #D3D3D3;  }
+#delucks_loveButtonSettings table.statistics tbody tr td { padding: 6px 10px 6px 5px; color: ; text-align: right;  }
+#delucks_loveButtonSettings table.statistics tbody tr td.empty { font-weight: normal; text-decoration: none; color: white; }
+#delucks_loveButtonSettings table.statistics tbody tr td.url { text-align: left; color: #6C6C6C; }
+#delucks_loveButtonSettings table.statistics tbody tr td a, #delucks_loveButtonSettings table.statistics tbody tr td a:hover { font-weight: bold; text-decoration: none; color: #6C6C6C; }
+#delucks_loveButtonSettings table.statistics tr.odd td.sorting_1, #delucks_loveButtonSettings table.statistics tr.even td.sorting_1 { background-color: #ECECEC; font-weight: bold; }
+
+#delucks_loveButtonSettings .premiumTeaser img { width: 75% }
+#delucks_loveButtonSettings .premiumFeature { color: #E34249; font-weight: bold; }
+
+.loveButtonDashboardWidgetTitle { color: #777777; font-family: Georgia,'Times New Roman','Bitstream Charter',Times,serif; font-size: 13px; font-style: italic; margin-top: 0; }
+
+#delucks_loveButtonSettings input.resetCounter { background: #E34249; border-color: #E34249; box-shadow: none; }
+#delucks_loveButtonSettings input.resetCounter.done { background: #51962E; border-color: #51962E; box-shadow: none; }
+.jqstooltip { z-index: 6000; }

@@ -1,0 +1,110 @@
+#settings-job_fwp th {
+	display: none;
+}
+#settings-job_fwp td {
+	margin: 0;
+	padding: 0;
+}
+#settings-job_fwp .available_block {
+	display: inline-block;
+	margin-right: 5%;
+	vertical-align: top;
+	width: 30%;
+}
+#settings-job_fwp .available_block .sortable_block {
+	background-color: transparent;
+	border: none;
+}
+#settings-job_fwp .available_block .facet-remove {
+	display: none;
+}
+#settings-job_fwp .available_block:hover .facet-remove {
+	display: none;
+}
+#settings-job_fwp .facets-config {
+	display: inline-block;
+	width: 60%;
+}
+
+.sortable-ghost {
+	opacity: 0.2;
+}
+
+.drag-handle {
+	color: #5f9edf;
+	cursor: move;
+	cursor: -webkit-grabbing;
+	display: inline-block;
+	font: bold 20px Sans-Serif;
+	margin-right: 10px;
+	/* overrides 'move' */
+}
+
+.sortable_block {
+	background-color: #ebebeb;
+	border: 1px dashed #bbbbbb;
+	border-radius: 10px;
+	margin: 40px 10px;
+	padding: 10px 0 30px;
+	width: 100%;
+}
+.sortable_block h3,
+.sortable_block p {
+	margin: 9px 16px;
+}
+.sortable_block h3 {
+	font-size: 15px;
+}
+.sortable_block em {
+	font-size: 13px;
+}
+.sortable_block .secondary_blocks {
+	background-color: #d9d9d9;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top: 1px dashed #bbbbbb;
+	margin-bottom: -30px;
+	margin-top: 10px;
+	padding-bottom: 30px;
+	padding-top: 10px;
+}
+.sortable_block ul.facets {
+	margin: 10px 10px 0 10px;
+	min-height: 50px;
+}
+.sortable_block ul.facets li {
+	background-color: #ffffff;
+	border: 1px solid #cccccc;
+	border-left: 6px solid #906dbe;
+	cursor: pointer;
+	cursor: hand;
+	display: inline-block;
+	margin: 6px;
+	min-height: 40px;
+	padding: 8px;
+	position: relative;
+	width: 132px;
+}
+.sortable_block ul.facets li .facet-remove {
+	display: none;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.sortable_block ul.facets li:hover .facet-remove {
+	display: inline-block;
+}
+.sortable_block ul.facets li > * {
+	display: block;
+	padding: 3px;
+	text-align: center;
+}
+.sortable_block ul.facets li .title {
+	color: #444444;
+	font-size: 13px;
+	text-transform: capitalize;
+}
+.sortable_block ul.facets li .type {
+	color: #999999;
+	font-size: 10px;
+}

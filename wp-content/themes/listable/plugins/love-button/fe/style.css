@@ -1,0 +1,258 @@
+@import url("dark.css");
+
+
+/* POPUP BUTTONS */
+.delucksShareButtonsOuterWrapper .counter.hide { display: none; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton { width: 80px; margin: 5px; font-size: 11px; display: inline-block; width: 60px; padding: 2px 2px 0 10px; height: 25px; line-height: 22px !important; font-size: 14px; color: #FFFFFF; font-weight: bold; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; o-border-radius: 4px; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton .counter { }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.facebook { background: url("../images/love-slices.png") no-repeat scroll right -96px #3B5998; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.tumblr { background: url("../images/love-slices.png") no-repeat scroll right -577px #34506B; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.vkontakte { background: url("../images/love-slices.png") no-repeat scroll right -545px #4E7199; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.flattr { background: url("../images/love-slices.png") no-repeat scroll right -513px #F8B234; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.buffer { background: url("../images/love-slices.png") no-repeat scroll right -448px #51962E; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.twitter { background: url("../images/love-slices.png") no-repeat scroll right -130px #00ACEE; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.xing { background: url("../images/love-slices.png") no-repeat scroll right -231px #026466; color: #fff; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.google { background: url("../images/love-slices.png") no-repeat scroll right -164px #C63B1E; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.mail { background: url("../images/love-slices.png") no-repeat scroll right -302px #1375C4; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.print { background: url("../images/love-slices.png") no-repeat scroll right -339px #333333; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.pinterest { background: url("../images/love-slices.png") no-repeat scroll right -412px #CF3136; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.linkedin { background: url("../images/love-slices.png") no-repeat scroll right -268px #3399CC; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.stumbleupon { background: url("../images/love-slices.png") no-repeat scroll right -198px #EA4A24; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton.favorite { background: url("../images/love-slices.png") no-repeat scroll right -376px #FF951B; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButton:hover, .delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger:hover { opacity: 0.8; filter:alpha(80); -moz-opacity: 0.8; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButtonsLinks { min-width: 190px; text-align: right; padding: 0 5px 5px 5px; white-space: normal; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButtonsLinks a { text-decoration: none !important; font-weight: normal !important; color: #666666 !important; vertical-align: middle; letter-spacing: 0; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButtonsLinks .dataPrivacy { display: inline-block; background: url("../images/icon-in.png") no-repeat scroll 0 center; padding: 1px 10px 1px 20px !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButtonsLinks .dataPrivacy.active a { border-bottom: dotted 1px; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .delucksShareButtonsLinks .loveButton { display: inline-block; background: url("../images/icon-lv.png") no-repeat scroll 0 center; padding: 1px 5px 1px 20px !important; }
+
+
+img.social-network-dont-share { border: none !important; }
+.delucksShareButtonsClear { clear: both; }
+.delucksShareButtonsOuterWrapper { font-size: 11px !important; font-weight: normal; text-transform: none; display: inline-block; position: relative; z-index: 25; float: right; padding: 0; font-family: Arial, Helvetica, sans-serif !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools {  }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsCounter { color: #666666 !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger { cursor: pointer; display: inline-block; position: relative; margin: 0; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { display: inline-block; margin-right: 5px; border: solid 1px #CCCCCC; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger .icon .verb { color: #666666; font-weight: bold; font-size: 11px; letter-spacing: 0; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { padding: 0 7px; margin: 0 auto; text-align: center; border: solid 1px #CCCCCC; -webkit-border-radius: 3px; -moz-border-radius: 3px; border-radius: 3px; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger .counter.show { display: inline; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper { text-align: left; display: none; white-space: nowrap; position: absolute; z-index: 25; right: 0px; background: #FFFFFF; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px; border: #d6d6d6 solid 1px;  -moz-box-shadow: 0px 0px 0px rgba(0,0,0,0.25); -webkit-box-shadow: 0px 0px 0px rgba(0,0,0,0.25); box-shadow: 0px 0px 0px rgba(0,0,0,0.25); }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper.arrowBottom { bottom: 100%; }
+
+/* STYLE 1 (59x16) */
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper { margin-top: 19px; text-align: left; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton .counter { }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton { width: 45px; height: 16px; line-height: 15px !important; font-size: 11px; background-size: 16px auto !important; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.facebook { background: url("../images/love-slices.png") no-repeat scroll right -79px #3B5998; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.tumblr { background: url("../images/love-slices.png") no-repeat scroll right -464px #34506B; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.vkontakte { background: url("../images/love-slices.png") no-repeat scroll right -438px #4E7199; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.flattr { background: url("../images/love-slices.png") no-repeat scroll right -413px #F8B234; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.buffer { background: url("../images/love-slices.png") no-repeat scroll right -360px #51962E; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.twitter { background: url("../images/love-slices.png") no-repeat scroll right -107px #00ACEE; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.xing { background: url("../images/love-slices.png") no-repeat scroll right -187px #026466; color: #fff; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.google { background: url("../images/love-slices.png") no-repeat scroll right -133px #C63B1E; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.mail { background: url("../images/love-slices.png") no-repeat scroll right -244px #1375C4; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.print { background: url("../images/love-slices.png") no-repeat scroll right -273px #333333; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.pinterest { background: url("../images/love-slices.png") no-repeat scroll right -331px #CF3136; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.linkedin { background: url("../images/love-slices.png") no-repeat scroll right -216px #3399CC; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.stumbleupon { background: url("../images/love-slices.png") no-repeat scroll right -160px #EA4A24; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper .delucksShareButton.favorite { background: url("../images/love-slices.png") no-repeat scroll right -303px #FF951B; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools { height: 16px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger { height: 16px; font-size: 11px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { height: 16px; float: left; padding: 0 0 0 24px; background: url("../images/love-slices.png") no-repeat scroll 5px 2px #F4F4F4; line-height: 16px !important; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon .verb { line-height: 16px; margin: 0 5px 0 0; position: relative; top: -1px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { margin-left: 2px; height: 16px; float: left; line-height: 16px !important; position: relative; background: #FFFFFF; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after, .delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { right: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(255, 255, 255, 0); border-right-color: #FFFFFF; border-width: 4px; top: 50%; margin-top: -4px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(204, 204, 204, 0); border-right-color: #CCCCCC; border-width: 5px; top: 50%; margin-top: -5px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom { margin-top: 0; margin-bottom: 19px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; right: 0px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; right: -1px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowLeft:after, .delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowLeft:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; left: 13px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; left: 13px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom:after, .delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(214, 214, 214, 0); border-top-color: #FFFFFF; border-width: 13px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_59x16 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(214, 214, 214, 0); border-top-color: #D6D6D6; border-width: 14px; margin-left: -14px; }
+
+/* STYLE 2 (75x20) */
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper { margin-top: 17px; text-align: left; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton .counter { }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton { width: 52px; height: 20px; line-height: 20px !important; font-size: 12px; background-size: 20px auto !important; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.facebook { background: url("../images/love-slices.png") no-repeat scroll right -99px #3B5998; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.tumblr { background: url("../images/love-slices.png") no-repeat scroll right -579px #34506B; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.vkontakte { background: url("../images/love-slices.png") no-repeat scroll right -548px #4E7199; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.flattr { background: url("../images/love-slices.png") no-repeat scroll right -516px #F8B234; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.buffer { background: url("../images/love-slices.png") no-repeat scroll right -451px #51962E; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.twitter { background: url("../images/love-slices.png") no-repeat scroll right -134px #00ACEE; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.xing { background: url("../images/love-slices.png") no-repeat scroll right -234px #026466; color: #fff; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.google { background: url("../images/love-slices.png") no-repeat scroll right -166px #C63B1E; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.mail { background: url("../images/love-slices.png") no-repeat scroll right -305px #1375C4; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.print { background: url("../images/love-slices.png") no-repeat scroll right -341px #333333; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.pinterest { background: url("../images/love-slices.png") no-repeat scroll right -415px #CF3136; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.linkedin { background: url("../images/love-slices.png") no-repeat scroll right -271px #3399CC; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.stumbleupon { background: url("../images/love-slices.png") no-repeat scroll right -201px #EA4A24; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper .delucksShareButton.favorite { background: url("../images/love-slices.png") no-repeat scroll right -379px #FF951B; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools { height: 20px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger { height: 20px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { float: left; height: 20px; padding: 0 0 0 30px; background: url("../images/love-slices.png") no-repeat scroll 7px -29px #F4F4F4; line-height: 20px !important; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon .verb { line-height: 20px; margin: 0 5px 0 0; position: relative; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { float: left; margin-left: 2px; height: 20px; line-height: 20px !important; font-size: 13px !important; position: relative; background: #FFFFFF; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after, .delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { right: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(255, 255, 255, 0); border-right-color: #FFFFFF; border-width: 5px; top: 50%; margin-top: -5px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(204, 204, 204, 0); border-right-color: #CCCCCC; border-width: 6px; top: 50%; margin-top: -6px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom { margin-top: 0; margin-bottom: 20px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; right: 0px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; right: -1px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowLeft:after, .delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowLeft:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; left: 15px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; left: 15px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom:after, .delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(214, 214, 214, 0); border-top-color: #FFFFFF; border-width: 13px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_75x20 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(214, 214, 214, 0); border-top-color: #D6D6D6; border-width: 14px; margin-left: -14px; }
+
+/* STYLE 3 (91x24) */
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper { margin-top: 17px; margin-bottom: 0; text-align: left; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper .delucksShareButton .counter { }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper .delucksShareButton { width: 62px; height: 24px; line-height: 24px !important; font-size: 14px; font-weight: normal; /*background-size: 24px auto !important;*/ }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools { height: 24px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger { height: 24px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { height: 22px; padding: 0 0 0 34px; background: url("../images/love-slices.png") no-repeat scroll 7px -63px #F4F4F4; float: left; line-height: 22px !important; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon .verb { line-height: 22px; margin: 0 7px 0 0; position: relative; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { margin-left: 2px; /*width: 43px;*/ height: 22px; padding: 0px 7px; position: relative; /* top: -1px;*/ float: left; line-height: 23px !important; font-size: 14px !important; background: #FFFFFF; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after, .delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { right: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(255, 255, 255, 0); border-right-color: #FFFFFF; border-width: 5px; top: 50%; margin-top: -5px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(204, 204, 204, 0); border-right-color: #CCCCCC; border-width: 6px; top: 50%; margin-top: -6px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom { margin-top: 0; margin-bottom: 20px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; right: 0px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; right: -1px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowLeft:after, .delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowLeft:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; left: 17px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; left: 17px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom:after, .delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(214, 214, 214, 0); border-top-color: #FFFFFF; border-width: 13px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_91x24 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(214, 214, 214, 0); border-top-color: #D6D6D6; border-width: 14px; margin-left: -14px; }
+
+/* STYLE 4 (52x60) */
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper { margin-top: 36px; margin-bottom: 0; text-align: left; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton .counter { display: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton { width: 52px; height: 24px; line-height: 24px !important; font-size: 14px; padding: 1px 0px; margin: 10px 0 0 0; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.facebook { background: url("../images/love-slices.png") no-repeat scroll 22px -97px #3B5998; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.tumblr { background: url("../images/love-slices.png") no-repeat scroll 19px -578px #34506B; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.vkontakte { background: url("../images/love-slices.png") no-repeat scroll 19px -545px #4E7199; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.flattr { background: url("../images/love-slices.png") no-repeat scroll 19px -514px #F8B234; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.buffer { background: url("../images/love-slices.png") no-repeat scroll 19px -448px #51962E; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.twitter { background: url("../images/love-slices.png") no-repeat scroll 19px -133px #00ACEE; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.xing { background: url("../images/love-slices.png") no-repeat scroll 19px -232px #026466; color: #fff; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.google { background: url("../images/love-slices.png") no-repeat scroll 17px -165px #C63B1E; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.mail { background: url("../images/love-slices.png") no-repeat scroll 19px -303px #1375C4; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.print { background: url("../images/love-slices.png") no-repeat scroll 19px -340px #333333; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.pinterest { background: url("../images/love-slices.png") no-repeat scroll 20px -413px #CF3136; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.linkedin { background: url("../images/love-slices.png") no-repeat scroll 20px -269px #3399CC; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.stumbleupon { background: url("../images/love-slices.png") no-repeat scroll 19px -199px #EA4A24; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton.favorite { background: url("../images/love-slices.png") no-repeat scroll 19px -376px #FF951B; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools { }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger { width: 52px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { height: 28px; position: relative; margin: 0 auto 9px auto; font-size: 16px; line-height: 30px !important; font-weight: bold !important; background: #FFFFFF; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter.show { display: block; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after, .delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:after { border-color: rgba(255, 255, 255, 0); border-top-color: #FFFFFF; border-width: 7px; left: 50%; margin-left: -7px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .counter:before { border-color: rgba(204, 204, 204, 0); border-top-color: #CCCCCC; border-width: 8px; left: 50%; margin-left: -8px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background: url("../images/love-slices.png") no-repeat scroll 17px -29px #F4F4F4; display: block; width: 50px; padding: 18px 0 0 0; line-height: 15px !important; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsTools .delucksShareButtonsTrigger .icon .verb { display: block; text-align: center;  }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom { margin-top: 0; margin-bottom: 20px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; right: 12px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; right: 11px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowLeft:after, .delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowLeft:before { bottom: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowLeft:after { border-color: rgba(214, 214, 214, 0); border-bottom-color: #FFFFFF; border-width: 13px; left: 25px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowLeft:before { border-color: rgba(214, 214, 214, 0); border-bottom-color: #D6D6D6; border-width: 14px; left: 25px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom:after, .delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom:after { border-color: rgba(214, 214, 214, 0); border-top-color: #FFFFFF; border-width: 13px; margin-left: -13px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper.arrowBottom:before { border-color: rgba(214, 214, 214, 0); border-top-color: #D6D6D6; border-width: 14px; margin-left: -14px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .buttonWrapper { display: inline-block; width: 50px; margin: 0px 5px 5px 5px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .counter { height: 28px; position: relative; margin: 0 auto 9px auto; font-size: 16px; line-height: 30px !important; font-weight: bold !important; background: #FFFFFF; border: 1px solid #CCCCCC; border-radius: 3px 3px 3px 3px; margin: 0 auto; padding: 0; text-align: center; width: 50px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .counter.show { display: block; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .counter:after, .delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .counter:before { top: 100%; border: solid transparent; content: " "; height: 0; width: 0; position: absolute; pointer-events: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .counter:after { border-color: rgba(255, 255, 255, 0); border-top-color: #FFFFFF; border-width: 7px; left: 50%; margin-left: -7px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .counter:before { border-color: rgba(204, 204, 204, 0); border-top-color: #CCCCCC; border-width: 8px; left: 50%; margin-left: -8px; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .icon { background: url("../images/love-slices.png") no-repeat scroll 17px -29px #F4F4F4; display: block; width: 50px; padding: 18px 0 0 0; line-height: 15px !important; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .icon .verb { display: block; text-align: center;  }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton .counter { display: none; }
+.delucksShareButtonsOuterWrapper.style_52x60 .delucksShareButtonsInnerWrapper .delucksShareButton { width: 52px; }
+
+/* POPUP FOOTER */
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .subscription { padding: 0 10px 5px 5px; font-size: 11px !important; color: #666666 !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .subscription .title { text-transform: uppercase; font-size: 12px !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper .subscription .text { line-height: 15px; white-space: normal; letter-spacing: 0; }
+
+/* OVERLAYS */
+.delucksOverlay {  }
+
+/* PINTEREST OVERLAY */
+.delucksOverlay.pinterst { display: none; position: fixed; z-index: 2000; height: 100%; width: 100%; background: url("../images/overlay.png") repeat; color: #FFFFFF; overflow: auto; }
+.delucksOverlay.pinterst img { margin: 10px; border: solid 5px #FFFFFF; padding: 3px; max-width: 150px;  }
+.delucksOverlay.pinterst img:hover { border: solid 5px #CB2027; }
+
+/* FACEBOOK OVERLAY */
+.delucksOverlay.facebook { width: 100%; height: 100%; position: fixed; background: rgba(0, 0, 0, 0.3); z-index: 9999; font-family: Arial, Helvetica, sans-serif; }
+.delucksOverlay .facebookLikeBox { position: fixed; z-index: 2000; min-height: 75px; width: 300px; margin-top:-50px; margin-left: -175px; top: 50%; left: 50%; background: #fff; color: #000; padding: 15px 15px 10px 15px; border: 1px solid #D6D6D6; -webkit-border-radius: 10px;border-radius: 10px; -webkit-box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5);box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5); }
+.delucksOverlay .facebookLikeBox .close { cursor: pointer; position: absolute; right: 0px; top: 8px;color: #000; }
+.delucksOverlay .facebookLikeBox .close:hover { color: grey; }
+.delucksOverlay .facebookLikeBox .close .countdown { padding: 0 5px; font-size: 10px; }
+.delucksOverlay .facebookLikeBox .overlayContent {  }
+.delucksOverlay .facebookLikeBox .overlayFooter {border-top: 1px dashed #D6D6D6;color: grey;font-size: 10px;margin-top: 11px;padding: 7px 0 0 10px;text-align: right;width: 100%;}
+.delucksOverlay .facebookLikeBox .overlayFooter input {float: right; margin:0 4px 0 10px; }
+
+/* TWITTER OVERLAY */
+.delucksOverlay.twitter { width: 100%; height: 100%; position: fixed; background: rgba(0, 0, 0, 0.3); z-index: 9999; font-family: Arial, Helvetica, sans-serif; }
+.delucksOverlay .twitterFollowBox { position: fixed; z-index: 2000; min-height: 75px; width: 300px; margin-top:-50px; margin-left: -175px; top: 50%; left: 50%; background: #fff; color: #000; padding: 15px 15px 10px 15px; border: 1px solid #D6D6D6; -webkit-border-radius: 10px;border-radius: 10px; -webkit-box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5);box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5); }
+.delucksOverlay .twitterFollowBox .close { cursor: pointer; position: absolute; right: 0px; top: 8px;color: #000; }
+.delucksOverlay .twitterFollowBox .close:hover { color: grey; }
+.delucksOverlay .twitterFollowBox .close .countdown { padding: 0 5px; font-size: 10px; }
+.delucksOverlay .twitterFollowBox .overlayContent {  }
+.delucksOverlay .twitterFollowBox .overlayFooter {border-top: 1px dashed #D6D6D6;color: grey;font-size: 10px;margin-top: 11px;padding: 7px 0 0 10px; text-align: right;width: 100%;}
+.delucksOverlay .twitterFollowBox .overlayFooter input {float: right; margin:0 4px 0 10px; }
+
+/* GOOGLE OVERLAY */
+.delucksOverlay.google { width: 100%; height: 100%; position: fixed; background: rgba(0, 0, 0, 0.3); z-index: 9999; font-family: Arial, Helvetica, sans-serif; }
+.delucksOverlay .googleFollowBox { position: fixed; z-index: 2000; min-height: 75px; width: 300px; margin-top:-50px; margin-left: -175px; top: 50%; left: 50%; background: #fff; color: #000; padding: 15px 15px 10px 15px; border: 1px solid #D6D6D6; -webkit-border-radius: 10px;border-radius: 10px; -webkit-box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5);box-shadow:  0px 0px 10px 2px rgba(0, 0, 0, 0.5); }
+.delucksOverlay .googleFollowBox .close { cursor: pointer; position: absolute; right: 0px; top: 8px;color: #000; }
+.delucksOverlay .googleFollowBox .close:hover { color: grey; }
+.delucksOverlay .googleFollowBox .close .countdown { padding: 0 5px; font-size: 10px; }
+.delucksOverlay .googleFollowBox .overlayContent {  }
+.delucksOverlay .googleFollowBox .overlayFooter {border-top: 1px dashed #D6D6D6;color: grey;font-size: 10px;margin-top: 11px;padding: 7px 0 0 10px; text-align: right;width: 100%;}
+.delucksOverlay .googleFollowBox .overlayFooter input {float: right; margin:0 4px 0 10px; }
+
+/* HEARTLESS STYLE */
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper { display: inline-block; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsTools { display: none; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsTools { display: none; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper:before { bottom: auto; border: none; content: " "; height: auto; width: auto; position: absolute; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper:after { border-width: 0; right: auto; margin-left: auto; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper:before { border-width: 0; right: auto; margin-left: auto; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowLeft:after, .delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowLeft:before { bottom: auto; border: none; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowLeft:after { border-width: 0; left: auto; margin-left: auto; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowLeft:before { border-width: 0; left: auto; margin-left: auto; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowBottom:after, .delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowBottom:before { top: auto; border: none; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowBottom:after { border-width: 0; margin-left: auto; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper.arrowBottom:before { border-width: 0; margin-left: auto; }
+.delucksShareButtonsOuterWrapper.heartless .delucksShareButtonsInnerWrapper { margin: 0; }
+
+/* WIDGET SUGGEST */
+.widgetLoveButtonSuggest { text-align: left; margin-top: 35px; }
+.widgetLoveButtonSuggest h3.widget-title { color: white; font-size: 13px; font-weight: bold; letter-spacing: 0.2em; margin: 0; padding: 0 0 15px; text-transform: uppercase; }
+
+/* MENU-ITEM */
+.love-button-menu-item { }
+.love-button-menu-item > a { display: none !important; }
+.love-button-menu-item > .delucksShareButtonsOuterWrapper { float: none !important; margin: 0 !important; }
+.love-button-menu-item > .delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper a { display: inline-block !important; padding: 0px !important; font-size: 11px !important; }
+.love-button-menu-item > .style_52x60.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper a {display: block !important;}
+.love-button-menu-item .delucksShareButtonsOuterWrapper .delucksShareButtonsCounter.counter { font-weight: normal; }
+
+

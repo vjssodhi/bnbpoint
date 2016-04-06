@@ -1,0 +1,4 @@
+body { background: none; text-align: left; }
+h1, h2, h3, h4, h5, h6 { clear: both; display: block; }
+div#content {  width: 22.5cm; }
+div#content .entry-wrap {  margin-top: 15px; } 

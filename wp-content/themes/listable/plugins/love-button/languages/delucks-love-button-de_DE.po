@@ -1,0 +1,592 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delucks Love Button\n"
+"POT-Creation-Date: 2013-04-30 18:25+0100\n"
+"PO-Revision-Date: 2013-04-30 18:26+0100\n"
+"Last-Translator: \n"
+"Language-Team: deLucks <info@deLucks>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../love-button.php:313
+msgid "Are you sure?"
+msgstr "Sind Sie sicher?"
+
+#: ../love-button.php:445
+msgid "Don't show again"
+msgstr "Nicht erneut anzeigen"
+
+#: ../love-button.php:446
+msgid "Sec."
+msgstr "Sek."
+
+#: ../love-button.php:636
+msgid "Love this, share your love"
+msgstr "Liebst Du es, zeige Deine Liebe"
+
+#: ../love-button.php:691
+msgid "Data privacy"
+msgstr "Datenschutz"
+
+#: ../love-button.php:695
+msgid ""
+"The next click will forward you to a social network, where your IP address "
+"might be saved by the provider."
+msgstr ""
+"Mit dem nächsten Klick werden Sie zu einem sozialen Netzwerk weitergeleitet, "
+"es kann sein dass dort Ihre IP-Adresse gespeichert wird."
+
+#: ../functions/linkedin.php:22
+msgid "share on LinkedIn"
+msgstr "auf LinkedIn teilen"
+
+#: ../functions/flattr.php:29
+msgid "share on Flattr"
+msgstr "auf Flattr teilen"
+
+#: ../functions/mail.php:22
+msgid "send via mail"
+msgstr "als E-Mail verschicken"
+
+#: ../functions/facebook.php:22
+msgid "share on Facebook"
+msgstr "auf Facebook teilen"
+
+#: ../functions/print.php:22
+msgid "print this"
+msgstr "jetzt drucken"
+
+#: ../functions/tumblr.php:22
+msgid "share on tumblr"
+msgstr "auf tumblr teilen"
+
+#: ../functions/favorite.php:22
+msgid "add to favorites"
+msgstr "zu den Favoriten hinzufügen"
+
+#: ../functions/twitter.php:25
+msgid "tweet this"
+msgstr "jetzt tweeten"
+
+#: ../functions/vkontakte.php:22
+msgid "share on VKontakte"
+msgstr "auf VKontakte teilen"
+
+#: ../functions/stumbleupon.php:22
+msgid "share on StumpleUpon"
+msgstr "auf StumpleUpon teilen"
+
+#: ../functions/buffer.php:22
+msgid "share on Buffer"
+msgstr "auf Buffer teilen"
+
+#: ../functions/xing.php:22
+msgid "share on Xing"
+msgstr "auf Xing teilen"
+
+#: ../functions/pinterest.php:22
+msgid "pin on Pinterest"
+msgstr "auf Pinterest pinnen"
+
+#: ../functions/google.php:22
+msgid "share on Google+"
+msgstr "auf Google+ teilen"
+
+#: ../functions/settings/flattr.php:24
+msgid "Username"
+msgstr ""
+
+#: ../functions/settings/facebook.php:24
+msgid "Vanity URL"
+msgstr ""
+
+#: ../functions/settings/facebook.php:24
+msgid "http://www.facebook.com/[vanity-url]"
+msgstr ""
+
+#: ../functions/settings/facebook.php:25
+msgid "Show Like-Box"
+msgstr "Like-Box anzeigen"
+
+#: ../functions/settings/facebook.php:26
+msgid "Auto close Like-Box"
+msgstr "Like-Box automatisch schließen"
+
+#: ../functions/settings/facebook.php:26
+msgid "Automaticly fade out the Like-Box in x seconds. (0 for no auto closing)"
+msgstr ""
+"Like-Box Overlay automatisch nach x Sekunden ausblenden. (0 = kein "
+"automatisches ausblenden)"
+
+#: ../functions/settings/twitter.php:24
+msgid "@Username"
+msgstr ""
+
+#: ../functions/settings/twitter.php:25 ../functions/settings/google.php:25
+msgid "Show Follow-Box"
+msgstr "Folgen-Box anzeigen"
+
+#: ../functions/settings/twitter.php:26 ../functions/settings/google.php:26
+msgid "Auto close Follow-Box"
+msgstr "Folgen-Box automatisch schließen"
+
+#: ../functions/settings/twitter.php:26 ../functions/settings/google.php:26
+msgid ""
+"Automaticly fade out the Follow-Box in x seconds. (0 for no auto closing)"
+msgstr ""
+"Folgen-Box Overlay automatisch nach x Sekunden ausblenden. (0 = kein "
+"automatisches ausblenden)"
+
+#: ../functions/settings/pinterest.php:24
+msgid "Minimum image width"
+msgstr "Bilder Mindestbreite"
+
+#: ../functions/settings/pinterest.php:24
+#: ../functions/settings/pinterest.php:25
+msgid "Value in px - dont add px, em or %"
+msgstr "Wert in px - kein px, em oder % anhängen"
+
+#: ../functions/settings/pinterest.php:25
+msgid "Minimum image height"
+msgstr "Bilder Mindesthöhe"
+
+#: ../functions/settings/google.php:24
+msgid "Google ID"
+msgstr "Google ID"
+
+#: ../be/config.php:24
+msgid "Love Button"
+msgstr ""
+
+#: ../be/config.php:29 ../be/config.php:34
+msgid "Statistics"
+msgstr "Statistik"
+
+#: ../be/config.php:30
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../be/config.php:37
+msgid "Show"
+msgstr "Zeige"
+
+#: ../be/config.php:39
+msgid "Total"
+msgstr "Alles"
+
+#: ../be/config.php:40
+msgid "Today"
+msgstr "Heute"
+
+#: ../be/config.php:41
+msgid "Yesterday"
+msgstr "Gestern"
+
+#: ../be/config.php:42
+msgid "Current week"
+msgstr "Diese Woche"
+
+#: ../be/config.php:43
+msgid "Last Week"
+msgstr "Letzte Woche"
+
+#: ../be/config.php:44
+msgid "Current Month"
+msgstr "Dieser Monat"
+
+#: ../be/config.php:45
+msgid "Last Month"
+msgstr "Letzter Monat"
+
+#: ../be/config.php:46
+msgid "Current Year"
+msgstr "Dieses Jahr"
+
+#: ../be/config.php:47
+msgid "Last Year"
+msgstr "Letztes Jahr"
+
+#: ../be/config.php:49
+msgid "From"
+msgstr "Von"
+
+#: ../be/config.php:59
+msgid "to"
+msgstr "bis"
+
+#: ../be/config.php:69
+msgid "Limit"
+msgstr ""
+
+#: ../be/config.php:72
+msgid "Hide empty"
+msgstr "Verberge Einträge ohne Klicks"
+
+#: ../be/config.php:75 ../be/config.php:251
+msgid "Save Options"
+msgstr "Optionen speichern"
+
+#: ../be/config.php:76 ../be/config.php:253
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#: ../be/config.php:79
+msgid "Visual Overview"
+msgstr "Visuelle Übersicht"
+
+#: ../be/config.php:80
+msgid "In Numbers"
+msgstr "In Zahlen"
+
+#: ../be/config.php:83
+msgid "Page"
+msgstr "Seite"
+
+#: ../be/config.php:114 ../be/config.php:120
+msgid "Style"
+msgstr ""
+
+#: ../be/config.php:115
+msgid "Channels"
+msgstr "Netzwerke"
+
+#: ../be/config.php:116
+msgid "Placement"
+msgstr "Platzierung"
+
+#: ../be/config.php:121
+msgid "bright"
+msgstr ""
+
+#: ../be/config.php:122
+msgid "dark"
+msgstr ""
+
+#: ../be/config.php:125
+msgid "Display verb"
+msgstr "Verb anzeigen"
+
+#: ../be/config.php:126
+msgid "Verb"
+msgstr "Verb"
+
+#: ../be/config.php:127
+msgid "Remove Popup-Backgrounds"
+msgstr "Popup Hintergründe entfernen"
+
+#: ../be/config.php:128
+msgid "No love button is visible. Only sharing buttons are visible"
+msgstr ""
+"Der Love Button ist nicht sichtbar. Nur die Share-Buttons werden angezeigt"
+
+#: ../be/config.php:128
+msgid "Heartless Version"
+msgstr "Herzlose Version"
+
+#: ../be/config.php:133
+msgid "Custom"
+msgstr "Benutzerdefiniert"
+
+#: ../be/config.php:134 ../be/config.php:221
+msgid "Paste image URL"
+msgstr "Bild URL einfügen"
+
+#: ../be/config.php:135
+msgid "The custom sharing image<br/>is without a visible counter."
+msgstr "Beim benutzerdefinierten Bild<br/>wird kein Zähler angezeigt."
+
+#: ../be/config.php:154
+msgid "Blog views, posts and pages"
+msgstr "Blogansichten, Beiträge und Seiten"
+
+#: ../be/config.php:155
+msgid "Posts and pages"
+msgstr "Beiträge und Seiten"
+
+#: ../be/config.php:156
+msgid "Posts"
+msgstr "Beiträge"
+
+#: ../be/config.php:157
+msgid "Only use shortcode"
+msgstr "Nur Shortcode verwenden"
+
+#: ../be/config.php:160
+msgid "Right align"
+msgstr "Rechts ausrichten"
+
+#: ../be/config.php:161
+msgid "Left align"
+msgstr "Links ausrichten"
+
+#: ../be/config.php:164
+msgid "Above content"
+msgstr "Über dem Inhalt"
+
+#: ../be/config.php:165
+msgid "Below content"
+msgstr "Unter dem Inhalt"
+
+#: ../be/config.php:166
+msgid "Date"
+msgstr "Datum"
+
+#: ../be/config.php:170
+msgid "Position"
+msgstr ""
+
+#: ../be/config.php:171 ../be/config.php:180
+msgid "Top"
+msgstr "Oben"
+
+#: ../be/config.php:171 ../be/config.php:180 ../be/config.php:206
+msgid "Right"
+msgstr "Rechts"
+
+#: ../be/config.php:171 ../be/config.php:180
+msgid "Bottom"
+msgstr "Unten"
+
+#: ../be/config.php:171 ../be/config.php:180 ../be/config.php:205
+msgid "Left"
+msgstr "Links"
+
+#: ../be/config.php:173
+msgid "Relative"
+msgstr "Relativ"
+
+#: ../be/config.php:174
+msgid "Absolute"
+msgstr "Absolut"
+
+#: ../be/config.php:175
+msgid "Fixed"
+msgstr ""
+
+#: ../be/config.php:179
+msgid "Margin"
+msgstr "Abstand"
+
+#: ../be/config.php:187
+msgid "Popup"
+msgstr ""
+
+#: ../be/config.php:188
+msgid "Behavior"
+msgstr "Verhalten"
+
+#: ../be/config.php:189
+msgid "License"
+msgstr "Lizenz"
+
+#: ../be/config.php:192
+msgid "Show data privacy"
+msgstr "Datenschutz-Link anzeigen"
+
+#: ../be/config.php:193
+msgid "Show data privacy text by default"
+msgstr "Datenschutzhinweis standardmäßig anzeigen"
+
+#: ../be/config.php:195
+msgid "Popup v-position"
+msgstr "Popup V-Position"
+
+#: ../be/config.php:197 ../be/config.php:204
+msgid "Auto"
+msgstr "Automatisch"
+
+#: ../be/config.php:198
+msgid "Above button"
+msgstr "Über dem Button"
+
+#: ../be/config.php:199
+msgid "Below button"
+msgstr "Unter dem Button"
+
+#: ../be/config.php:202
+msgid "Popup h-position"
+msgstr "Popup H-Position"
+
+#: ../be/config.php:208
+msgid "Popup columns"
+msgstr "Popup Spalten"
+
+#: ../be/config.php:212
+msgid ""
+"Recommended for post based sharing. if deactivated, the<br/>button would "
+"share the URL. Deactivation<br/>makes sense, if you only want to use one "
+"(global) love<br/>button for your frontpage, category pages and<br/>archive "
+"pages."
+msgstr ""
+"Empfohlen für Beitragsbasiertes teilen.<br/>Wenn diese Option deaktiviert "
+"ist, wird die aktuelle URL geteilt.<br/>Das macht Sinn, wenn Du nur einen "
+"globalen<br/>Love Button verwenden möchtest, zum Beispiel auf der "
+"Startseite, in<br/>Kategorieansichten oder Archivseiten."
+
+#: ../be/config.php:213
+msgid "Share based on ID"
+msgstr "ID basierend teilen"
+
+#: ../be/config.php:215
+msgid ""
+"If enabled, the plugin will remove all OpenGraph image tags from the html "
+"output and then create new tags for all images in the source which have a "
+"dimension of minimum [width]x[height] pixels.<br/>You can disallow to share "
+"an image by mark up as \"unshareable\" with the editor button."
+msgstr ""
+"Wenn diese Option aktiviert ist, wird das Plugin alle im HTML Code "
+"enthaltenen OpenGraph-Image-Tags entfernen und für alle Bilder im Quelltext "
+"mit einer Mindestgröße von [Breite]x[Höhe] Pixel neue Tags erzeugen.<br/>Du "
+"kannst unterbinden, dass ein Bild geteilt wird, indem Du es über den Editor "
+"Button als \"nicht teilbar\" markierst."
+
+#: ../be/config.php:216
+msgid "Proceed OpenGraph images"
+msgstr "OpenGraph Bilder behanden"
+
+#: ../be/config.php:217
+msgid "Minimum width"
+msgstr "Mindest-Breite"
+
+#: ../be/config.php:217
+msgid "height"
+msgstr "Höhe"
+
+#: ../be/config.php:219
+msgid "Set this image to the first shareable OpenGraph image."
+msgstr "Verwende dieses Bild als erstes OpenGraph Bild."
+
+#: ../be/config.php:220
+msgid "First OpenGraph image: "
+msgstr "Erstes OpenGraph Bild: "
+
+#: ../be/config.php:225
+msgid "Premium license key"
+msgstr "Premium Lizenzschlüssel"
+
+#: ../be/config.php:226
+msgid ""
+"You can purchase a premium license key to enable premium features. Please "
+"visit"
+msgstr ""
+"Um die Premiumfunktionen zu aktivieren benötigst Du einen Lizenzschlüssel. "
+"Bitte besuche"
+
+#: ../be/config.php:227
+msgid "Show love button branding"
+msgstr "Zeige Love Button Branding"
+
+#: ../be/config.php:232
+msgid "Counting"
+msgstr "Zählen"
+
+#: ../be/config.php:235
+msgid "Only count clicks for this groups"
+msgstr "Nur Klicks dieser Gruppen zählen"
+
+#: ../be/config.php:238
+msgid "Guest"
+msgstr "Gast"
+
+#: ../be/config.php:243
+msgid ""
+"Recommended. If deactivated, the click on the love<br/>button itself would "
+"not be counted as a click."
+msgstr ""
+"Empfohlen. Wenn diese Option deaktiviert ist, werden<br/>Klicks auf den Love "
+"Button selbst nicht mehr als Klick gewertet."
+
+#: ../be/config.php:244
+msgid "Count Love Button clicks"
+msgstr "Zähle Love Button Klicks"
+
+#: ../be/config.php:246
+msgid "Show counters"
+msgstr "Zähler anzeigen"
+
+#: ../be/config.php:252
+msgid "Reset counter"
+msgstr "Zähler zurücksetzen"
+
+#: ../widgets/dashboard.php:13
+msgid "Love Button - Visual Overview"
+msgstr "Love Button - Visuelle Übersicht"
+
+#: ../widgets/dashboard.php:64
+msgid "Visual overview of the last 7 days"
+msgstr "Visuelle Übersicht der letzten 7 Tage"
+
+#: ../widgets/dashboard.php:65
+msgid "View statistics"
+msgstr "Zeige Statistik"
+
+#: ../widgets/suggest.php:7
+msgid "New & Loved Articles"
+msgstr "Neue und meist geliebte Artikel"
+
+#: ../widgets/suggest.php:7
+msgid ""
+"Shows the newest articles sorted by the number of hits on the love button"
+msgstr ""
+"Zeigt die neusten Artikel sortiert nach der Anzahl der Klicks auf den Love "
+"Button"
+
+#: ../widgets/suggest.php:40
+msgid "Title:"
+msgstr "Titel:"
+
+#: ../widgets/suggest.php:45
+msgid "Number of articles, beeing displayed in frontend:"
+msgstr "Anzahl der im Frontend anzuzeigenen Artikel"
+
+#: ../widgets/suggest.php:50
+msgid "Space of time, where articles will be selected:"
+msgstr "Artikel Selektierungszeitraum"
+
+#: ../widgets/suggest.php:51
+msgid "The last"
+msgstr "Die letzten"
+
+#: ../widgets/suggest.php:51
+msgid "days"
+msgstr "Tage"
+
+#~ msgid "Days"
+#~ msgstr "Tage"
+
+#~ msgid "Popup position x-axis"
+#~ msgstr "Popup Position horizontal"
+
+#~ msgid "* This is a premium feature."
+#~ msgstr "* Das ist ein Premium-Feature."
+
+#~ msgid "More info"
+#~ msgstr "Mehr Informationen"
+
+#~ msgid "About"
+#~ msgstr "Über"
+
+#~ msgid "Licence"
+#~ msgstr "Lizenz"
+
+#~ msgid "facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "linkedin"
+#~ msgstr "LinkedIn"
+
+#~ msgid "stumbleupon"
+#~ msgstr "StumbleUpon"
+
+#~ msgid "twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "xing"
+#~ msgstr "Xing"

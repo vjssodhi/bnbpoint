@@ -1,0 +1,4 @@
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper { background: transparent !important; border: none !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper:after, .delucksShareButtonsOuterWrapper .delucksShareButtonsInnerWrapper:before { border: none !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger .counter { display: none !important; }
+.delucksShareButtonsOuterWrapper .delucksShareButtonsTools .delucksShareButtonsTrigger .icon { background-color: transparent !important; border: none !important; }

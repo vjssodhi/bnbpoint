@@ -1,0 +1,4 @@
+[15-Mar-2016 17:30:29 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/captajc8/public_html/bnbpoint/wp-content/plugins/login-with-ajax/login-with-ajax-admin.php on line 416
+[15-Mar-2016 17:30:29 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/captajc8/public_html/bnbpoint/wp-content/plugins/login-with-ajax/login-with-ajax-admin.php on line 416
+[15-Mar-2016 17:30:32 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/captajc8/public_html/bnbpoint/wp-content/plugins/login-with-ajax/login-with-ajax-admin.php on line 416
+[15-Mar-2016 17:30:58 America/Denver] PHP Fatal error:  Call to undefined function add_action() in /home2/captajc8/public_html/bnbpoint/wp-content/plugins/login-with-ajax/login-with-ajax-admin.php on line 416

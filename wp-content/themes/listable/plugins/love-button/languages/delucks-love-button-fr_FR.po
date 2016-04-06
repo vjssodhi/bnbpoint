@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Delucks Love Button\n"
+"POT-Creation-Date: 2012-11-08 19:08+0100\n"
+"PO-Revision-Date: 2012-11-08 19:39+0100\n"
+"Last-Translator: \n"
+"Language-Team: deLucks <info@deLucks>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: delucks-love-button.php:233
+msgid "Data privacy"
+msgstr "Protection des données"
+
+#: delucks-love-button.php:237
+msgid ""
+"The next click will forward you to a social network, where your IP address "
+"might be saved by the provider."
+msgstr ""
+"Rendez-vous compte qu'on vous conduira avec le prochain clic à un réseau "
+"social et qu'il est possible que vos dates y puissent être enregistrées."
+
+#: be/config.php:3
+msgid "Love Button"
+msgstr "Love Button"
+
+#: be/config.php:6
+msgid "Style"
+msgstr ""
+
+#: be/config.php:7
+msgid "Functions"
+msgstr ""
+
+#: be/config.php:8
+msgid "Placement"
+msgstr ""
+
+#: be/config.php:25
+msgid "Homepage, Posts and Pages"
+msgstr ""
+
+#: be/config.php:26
+msgid "Posts and Pages"
+msgstr ""
+
+#: be/config.php:27
+msgid "Posts"
+msgstr ""
+
+#: be/config.php:28
+msgid "Use shortcode in your template"
+msgstr ""
+
+#: be/config.php:32
+msgid "Right align"
+msgstr ""
+
+#: be/config.php:33
+msgid "Left align"
+msgstr ""
+
+#: be/config.php:37
+msgid "Above content"
+msgstr ""
+
+#: be/config.php:38
+msgid "Below content"
+msgstr ""
+
+#: be/config.php:39
+msgid "Date"
+msgstr ""
+
+#: be/config.php:44
+msgid "Top"
+msgstr ""
+
+#: be/config.php:45
+msgid "Right"
+msgstr ""
+
+#: be/config.php:46
+msgid "Bottom"
+msgstr ""
+
+#: be/config.php:47
+msgid "Left"
+msgstr ""
+
+#: be/config.php:61
+msgid "About"
+msgstr ""
+
+#: be/config.php:72
+msgid "Licence"
+msgstr ""

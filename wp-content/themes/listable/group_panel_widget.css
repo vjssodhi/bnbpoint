@@ -1,0 +1,106 @@
+li[id*=spotlights] .widget-control-actions {
+	margin-top: 10px;
+}
+li[id*=spotlights] .widget-top a.widget-action:after {
+	content: "\f139";
+}
+li[id*=spotlights].expanded .group_panel_widget .widget-content {
+	opacity: 1 !important;
+	transition: opacity 0.2s;
+}
+li[id*=spotlights].expanded a.widget-action:after {
+	content: "\f141";
+}
+
+.group_panel_widget .widget-content {
+	background: #ffffff;
+	border: 1px solid #e5e5e5;
+	border-bottom-width: 0;
+	border-top-width: 0;
+	height: 100%;
+	left: 299px;
+	opacity: 0;
+	overflow: scroll;
+	padding: 30px 15px;
+	position: fixed;
+	top: 0;
+	transition: opacity 0.2s;
+	width: 300px;
+}
+.group_panel_widget .group_panel_widget_feature {
+	border: 1px #cccccc solid;
+}
+.group_panel_widget .drag_here {
+	border-top: 1px solid #e5e5e5;
+	color: #e5e5e5;
+	cursor: -webkit-grab;
+	display: block;
+	font-size: 22px;
+	letter-spacing: 3px;
+	margin-left: -15px;
+	margin-right: -15px;
+	padding: 5px;
+	text-align: center;
+}
+.group_panel_widget .drag_here:hover {
+	color: #555555;
+}
+.group_panel_widget .drag_here.ui-sortable-helper {
+	cursor: -webkit-grabbing;
+}
+.group_panel_widget .group_panel_widget_spotlight {
+	background: white;
+	margin-top: 30px;
+}
+.group_panel_widget .group_panel_widget_spotlight input,
+.group_panel_widget .group_panel_widget_spotlight textarea {
+	width: 100%;
+}
+
+#customize-controls .listable-spotlights-widget-image-control {
+	position: relative;
+}
+#customize-controls .listable-spotlights-widget-image-control a {
+	display: block;
+	height: auto;
+	margin: 0;
+	padding: 36px 0;
+	text-align: center;
+}
+#customize-controls .listable-spotlights-widget-image-control.has-image a {
+	height: 100%;
+	left: 0;
+	opacity: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+#customize-controls .listable-spotlights-widget-image-control img {
+	height: auto;
+	width: 100%;
+}
+
+#customize-controls span.add_spotlights {
+	cursor: pointer;
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: 15px;
+	outline: 0;
+	transition: all 0.2s;
+
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+#customize-controls span.add_spotlights:before {
+	content: "\f132";
+	display: inline-block;
+	font: 400 20px/1 dashicons;
+	-webkit-font-smoothing: antialiased;
+	left: -2px;
+	position: relative;
+	top: -1px;
+	transition: all 0.2s;
+	vertical-align: middle;
+}
