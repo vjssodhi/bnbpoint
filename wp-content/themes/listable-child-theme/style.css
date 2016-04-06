@@ -124,6 +124,11 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
  * 1.0 - Tools
  *   1.1 - Clearfix
  */
+ 
+ .btn_blk_1 a {
+    color: #fff !important;
+    padding: 3px;
+}
 .cf:after,
 .comment .comment-wrapper:after,
 .pingback .comment-wrapper:after,

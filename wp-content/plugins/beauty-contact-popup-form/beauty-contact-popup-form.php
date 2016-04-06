@@ -309,9 +309,8 @@ function TagPopup_plugin_parse_request($qstring)
 				else
 				{
 					echo "empty-email";
-				}
-				die();
-				break;		
+				}				
+				exit();
 		}
 	}
 }

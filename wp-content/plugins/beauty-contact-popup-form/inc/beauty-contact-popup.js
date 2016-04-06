@@ -49,7 +49,7 @@ function TagPopupContents()
 	 if (http_req.status == 200) 
 	 {
 		result = http_req.responseText;
-		alert(result);
+		alert("here...");
 		result = result.trim();
 		if(result == "invalid-email")
 		{
