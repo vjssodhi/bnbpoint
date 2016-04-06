@@ -3,6 +3,7 @@
 var http_req = false;
 function TagPopupPOSTRequest(url, parameters) 
 {
+	
   http_req = false;
   if (window.XMLHttpRequest) 
   {
@@ -42,42 +43,44 @@ function TagPopupPOSTRequest(url, parameters)
 
 function TagPopupContents() 
 {
+	//alert("here...");
   //alert(http_req.readyState);
-  alert(http_req.responseText);
+ // alert(http_req.responseText);
   if (http_req.readyState == 4) 
   {
 	 if (http_req.status == 200) 
 	 {
 		result = http_req.responseText;
-		alert("here...");
+		
 		result = result.trim();
 		if(result == "invalid-email")
 		{
-			alert("Invalid email address.");
+			//alert("Invalid email address.");
 			document.getElementById('TagPopup_alertmessage').innerHTML = "Invalid email address.";   
 		}
 		else if(result == "there-was-problem")
 		{
-			alert("There was a problem with the request.");
+			//alert("There was a problem with the request.");
 			document.getElementById('TagPopup_alertmessage').innerHTML = "There was a problem with the request.";   
 		}
 		else if(result == "mail-sent-successfully")
 		{
-			alert("Mail sent successfully");
+			//alert("Mail sent successfully");
 			document.getElementById('TagPopup_alertmessage').innerHTML = "Details submitted successfully";   
-			document.getElementById("TagPopup_mail").value = "reena.chandel25@yahoo.com";
+			document.getElementById("TagPopup_mail").value = "reena.chandel@itfiww.com";
 			document.getElementById("TagPopup_name").value = "reena";
 			document.getElementById("TagPopup_message").value = "testing";
 		}
 		else
 		{
-			alert("There was a problem with the request.");
+			//alert("There was a problem with the request.");
 			document.getElementById('TagPopup_alertmessage').innerHTML = "There was a problem with the request.";   
 		}
 	 } 
 	 else 
 	 {
-		alert('There was a problem with the request.');
+		//alert('There was a problem with the request.');
+		document.getElementById('TagPopup_alertmessage').innerHTML = "There was a problem with the request.";   
 	 }
   }
 }
@@ -109,12 +112,12 @@ function TagPopup_Submit(obj, url)
 		_m.focus();
 		return false;    
 	}
-	else if(_c.value=="")
+	/*else if(_c.value=="")
 	{
 		alert("Please Enter the Captcha.");
 		_c.focus();
 		return false; 
-	}
+	}*/
 		
 	
 	

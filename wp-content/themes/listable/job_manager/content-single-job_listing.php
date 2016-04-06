@@ -103,7 +103,7 @@ $user_id = wp_get_current_user();
                             <div class="user_image"><img src="<?php if($user_info['user_image'][0]){ echo $user_info['user_image'][0];}else{echo "http://localhost/irishcare/wp-content/themes/listable/images/avtar.jpg";};?>" alt="Smiley face" height="" width="90"> <?php echo $user_info['nickname'][0];?></div>
 						    <div class="user_action_button1">  
 							  <div class="btn_blk_1"> 
-							    <a class="button-primary" href="#">Apply For this Job</a>
+							    <a class="button-primary" href="#">Verify</a>
 								<?php
        if(isset($_POST['submit']))
          {
